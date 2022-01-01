@@ -34,10 +34,6 @@ git은 로컬개발환경에서도 가능하지만 github는 온라인 환경에
 
 ## CLI란?
 
-![image-20211231012449819](C:\Users\sunbo\AppData\Roaming\Typora\typora-user-images\image-20211231012449819.png)
-
-왼쪽이 CLI, 오른쪽이 GUI
-
 
 
 ### 1. 인터페이스(interface)를 먼저 알아봅시다
