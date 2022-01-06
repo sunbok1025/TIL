@@ -29,7 +29,7 @@
 
 
 
-<img src="C:\Users\Gram\Desktop\image.png" alt="image" style="zoom:67%;" />
+![Git로고1](c:\Users\Gram\Desktop\image.png)
 
 깃 로컬 저장소는 크게 3 구간으로 나눌 수 있습니다. 버전 저장소까지 가야하는 일종의 여정이라고 볼 수 있습니다.
 
@@ -180,7 +180,8 @@ Date:   Thu Dec 9 15:26:46 2021 +0900
 
 ## PUSH
 
-<img src="C:\Users\Gram\Desktop\image1.png" alt="image1" style="zoom:67%;" />
+![Git로고2](c:\Users\Gram\Desktop\image1.png)
+
 
 
 
