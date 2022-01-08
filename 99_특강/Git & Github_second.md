@@ -27,9 +27,7 @@
 
 공유되는 겁니다. 깃의 작동 방식을 살펴보죠.
 
-
-
-![Git로고1](c:\Users\Gram\Desktop\image.png)
+![image](https://user-images.githubusercontent.com/96896885/148647306-44190a09-4f2e-4be5-813c-09810a5ae5a3.png)
 
 깃 로컬 저장소는 크게 3 구간으로 나눌 수 있습니다. 버전 저장소까지 가야하는 일종의 여정이라고 볼 수 있습니다.
 
@@ -180,9 +178,7 @@ Date:   Thu Dec 9 15:26:46 2021 +0900
 
 ## PUSH
 
-![Git로고2](c:\Users\Gram\Desktop\image1.png)
-
-
+![image1](https://user-images.githubusercontent.com/96896885/148647323-700562f8-b02e-4cf4-b2e2-0929d56faffb.png)
 
 
 이제 로컬환경에서 버전관리를 했다면 온라인 환경과 연동 해야합니다. 깃허브에서 레포지터리 즉, 방 하나를 파고 그 주소를 깃과 연결하면 끝.
