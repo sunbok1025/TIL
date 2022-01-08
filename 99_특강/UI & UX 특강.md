@@ -81,7 +81,7 @@
 
 ### 2. 피드백🟡
 
-![image2](https://user-images.githubusercontent.com/96896885/148646969-9775388c-a804-4c12-b93e-35bdfda99f81.png)
+![image2](https://user-images.githubusercontent.com/96896885/148646969-9775388c-a804-4c12-b93e-35bdfda99f81.png){: width='100', height='100'}
 
 개인은 점점 파편화되고 있지만 소통과 교감의 필요성은 여전함. 
 
@@ -97,7 +97,9 @@
 
 ### 3. 의미 전달🟢
 
-![KakaoTalk_20210313_211810505](https://user-images.githubusercontent.com/96896885/148647075-3ed97915-5224-471b-931a-8edcf4f769cf.png)
+![KakaoTalk_20210313_211810505](https://user-images.githubusercontent.com/96896885/148647075-3ed97915-5224-471b-931a-8edcf4f769cf.png){: width='100', height='100'}
+
+
 
 정보의 시대. 정보를 만드는 것보다 에디팅하는 게 중요하다.
 
