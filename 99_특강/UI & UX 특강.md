@@ -87,7 +87,7 @@
 
 ### 2. 피드백🟡
 
-<img src = "https://user-images.githubusercontent.com/96896885/148646969-9775388c-a804-4c12-b93e-35bdfda99f81.png" width="400px" align="left">
+<img src = "https://user-images.githubusercontent.com/96896885/148646969-9775388c-a804-4c12-b93e-35bdfda99f81.png" width="500px" align="left">
 
 개인은 점점 파편화되고 있지만 소통과 교감의 필요성은 여전함. 
 
@@ -95,7 +95,7 @@
 
 '현상의 이해', '니즈 변화파악', '소비자 만족제고' ⇛ 컨텐츠 성공
 
-
+###### 이미지 출처:https://sentipark.com/1106
 
 
 
@@ -107,7 +107,7 @@
 
 
 
-<img src = "https://user-images.githubusercontent.com/96896885/148647075-3ed97915-5224-471b-931a-8edcf4f769cf.png" width="400px" height="600px" align="left">
+<img src = "https://user-images.githubusercontent.com/96896885/148647075-3ed97915-5224-471b-931a-8edcf4f769cf.png" width="500px" height="700px" align="left">
 
 
 
